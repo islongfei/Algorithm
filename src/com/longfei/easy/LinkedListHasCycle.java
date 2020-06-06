@@ -4,7 +4,7 @@ package com.longfei.easy;
  * 判断链表是否有环
  * 时间复杂度O(n),空间复杂度O(1)
  */
-public class LinkedListIsCycle {
+public class LinkedListHasCycle {
 
     /**
      * 使用两个指针p1和p2，
@@ -16,7 +16,7 @@ public class LinkedListIsCycle {
      * @param head
      * @return
      */
-    public boolean isCycle(Node head) {
+    public boolean hasCycle(Node head) {
         Node p1 = head;
         Node p2 = head;
         while (p2 != null && p2.next != null) {
