@@ -13,7 +13,7 @@
   </tr>
   
   <tr>
-    <td>[删除数组中的重复项](https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/RemoveDuplicates26.java)</td>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/RemoveDuplicates26.java">删除数组中的重复项</a> </td>
     <td>26</td>
     <td>easy</td>
     <td>2020.08.10</td>
