@@ -1,5 +1,4 @@
-## 日常算法打卡
->记录算法点滴   
+## 日常算法打卡:pencil:
 
 <table >
   <tr>
@@ -17,7 +16,7 @@
     <td>26</td>
     <td>easy</td>
     <td>2020.08.10</td>
-    <td></td>
+    <td>:heavy_check_mark:</td>
     <td></td>
     <td></td>
   </tr>  
@@ -104,8 +103,8 @@
   </tr> 
   
   <tr>
-    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/WordPattern290.java">单词规律290 </a> </td>
-    <td>90</td>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/WordPattern290.java">单词规律 </a> </td>
+    <td>290</td>
     <td>easy</td>
     <td>2020.08.29</td>
     <td></td>
