@@ -1,6 +1,6 @@
 # Algorithm
-* [对算法的一些思考](https://github.com/islongfei/Algorithm/blob/master/thinking.md)    
-* [位运算应用](https://github.com/islongfei/Blog/blob/master/data-structure/%E4%BD%8D%E8%BF%90%E7%AE%97%E8%A3%85%E9%80%BC.md)
-* [BFPRT算法](https://blog.csdn.net/qq_37480159/article/details/76713801)
-* [最大公约数](https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/GreatestCommonDivisor.java)
-* [判断链表是否有环](https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/LinkedListIsCycle.java)
+* [日常算法打卡:punch:](https://github.com/islongfei/Algorithm/blob/master/summary/clock-in.md)
+* [对算法的思考](https://github.com/islongfei/Algorithm/blob/master/thinking.md)    
+* [数据结构及学习方式](https://github.com/islongfei/Algorithm/blob/master/summary/data-structure.md) 
+* [算法的一些方法论](https://github.com/islongfei/Algorithm/blob/master/summary/methodology.md)
+
