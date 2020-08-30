@@ -43,7 +43,7 @@
   
   <tr>
     <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/MaxArea11.java">盛水最多的容器 </a> </td>
-    <td>104</td>
+    <td>11</td>
     <td>medium</td>
     <td>2020.08.13</td>
     <td></td>
