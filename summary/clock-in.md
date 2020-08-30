@@ -3,7 +3,7 @@
 <table >
   <tr>
     <th>problem name</th>
-    <th>problem num</th>
+    <th>leetcode num</th>
     <th>difficulty</th>
     <th>first time</th>
     <th>a day after</th>
