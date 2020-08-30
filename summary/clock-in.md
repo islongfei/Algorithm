@@ -86,7 +86,7 @@
     <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/SwapPairs24.java">两两交换链表中的节点 </a> </td>
     <td>24</td>
     <td>medium</td>
-    <td>2020.08.27</td>
+    <td>2020.08.28</td>
     <td></td>
     <td></td>
     <td></td>
