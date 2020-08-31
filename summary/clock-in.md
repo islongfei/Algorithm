@@ -57,7 +57,7 @@
     <td>70</td>
     <td>easy</td>
     <td>2020.08.24</td>
-    <td></td>
+    <td>:heavy_check_mark:</td>
     <td></td>
     <td></td>
   </tr>  
