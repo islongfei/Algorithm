@@ -120,6 +120,16 @@
     <td>:heavy_check_mark:</td>
     <td></td>
     <td></td>
+  </tr>  
+
+  <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/Intersect350.java">两个数组的交集 II </a> </td>
+    <td>350</td>
+    <td>easy</td>
+    <td>2020.08.31</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>  
