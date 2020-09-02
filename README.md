@@ -135,6 +135,26 @@
     <td>:heavy_check_mark:</td>
     <td></td>
     <td></td>
+  </tr>  
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/hard/MaxSlidingWindow239.java">滑动窗口最大值</a> </td>
+    <td>239</td>
+    <td>hard</td>
+    <td>2020.09.02</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>  
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/RemoveOuterParentheses1021.java">删除最外层的括号 </a> </td>
+    <td>1021</td>
+    <td>easy</td>
+    <td>2020.09.02</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>  
