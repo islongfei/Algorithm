@@ -155,6 +155,16 @@
     <td></td>
     <td></td>
     <td></td>
+  </tr>  
+  
+  <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/FizzBuzz412.java">Fizz Buzz </a> </td>
+    <td>412</td>
+    <td>easy</td>
+    <td>2020.09.03</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>  
