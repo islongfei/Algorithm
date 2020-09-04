@@ -152,7 +152,7 @@
     <td>1021</td>
     <td>easy</td>
     <td>2020.09.02</td>
-    <td></td>
+    <td>:heavy_check_mark:</td>
     <td></td>
     <td></td>
   </tr>  
