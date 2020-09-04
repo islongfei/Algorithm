@@ -22,7 +22,7 @@ public class RemoveOuterParentheses1021 {
      *          如果栈为空，那么刚刚碰到的右括号则是最外右括号
      */
     public String removeOuterParentheses(String s) {
-        StringBuffer res = new StringBuffer();
+        StringBuilder res = new StringBuilder();
         int count = 0;
         char left = '(', right = ')'; //在循环外使用变量来定义括号，减少循环内char的创建，能有效优化性能
         for (char c : s.toCharArray()) {
