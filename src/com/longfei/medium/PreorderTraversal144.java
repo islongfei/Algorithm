@@ -29,6 +29,8 @@ public class PreorderTraversal144 {
         return list;
     }
 
+    // todo 递归写法
+
     public class TreeNode {
         int val;
         TreeNode left;
