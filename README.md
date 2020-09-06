@@ -165,6 +165,16 @@
     <td></td>
     <td></td>
     <td></td>
+  </tr>  
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/TopKFrequent347.java">前 K 个高频元素</a> </td>
+    <td>347</td>
+    <td>medium</td>
+    <td>2020.09.06</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>  
