@@ -11,6 +11,7 @@ public class MaxSlidingWindow239 {
     /**
      * solution 1. 暴力 O(n*k)
      * solution 2. O(n) 单调队列
+     * solution 3. 双端队列
      */
     public int[] maxSlidingWindow(int[] nums, int k) {
         int i, j, length = nums.length;
