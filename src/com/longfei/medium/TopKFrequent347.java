@@ -46,7 +46,7 @@ public class TopKFrequent347 {
                 pq.add(num);
             }
         }
-        for (int i = 0; i < k; i++) {
+        for (int i = k - 1; i >= 0; i--) {
             if (!pq.isEmpty()) res[i] = pq.remove();
         }
         return res;
