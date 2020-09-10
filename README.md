@@ -185,7 +185,18 @@
     <td></td>
     <td></td>
     <td></td>
+  </tr>  
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/IsValidBST98.java">验证二叉搜索树</a> </td>
+    <td>98</td>
+    <td>medium</td>
+    <td>2020.09.10</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
+
 </table>  
 
 
