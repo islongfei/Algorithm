@@ -195,6 +195,26 @@
     <td>:heavy_check_mark:</td>
     <td></td>
     <td></td>
+  </tr>  
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/MyPow50.java">计算 x 的 n 次幂</a> </td>
+    <td>50</td>
+    <td>medium</td>
+    <td>2020.09.15</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/LetterCombinations17.java">电话号码字母组合</a> </td>
+    <td>17</td>
+    <td>medium</td>
+    <td>2020.09.16</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>  
