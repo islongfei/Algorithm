@@ -23,7 +23,7 @@ public class GenerateParenthesis22 {
             return;
         }
         // 剪枝
-        // 1. 左括号不能大于3
+        // 1. 左括号不能大于n
         // 2. 左括号数 > 右括号才能去加右括号
         if (left < n) {
             generate2(left + 1, right, n, s + "(");
