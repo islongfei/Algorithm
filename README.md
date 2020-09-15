@@ -192,7 +192,7 @@
     <td>98</td>
     <td>medium</td>
     <td>2020.09.10</td>
-    <td></td>
+    <td>:heavy_check_mark:</td>
     <td></td>
     <td></td>
   </tr>
