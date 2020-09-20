@@ -215,6 +215,59 @@
     <td></td>
     <td></td>
     <td></td>
+  </tr>  
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/MaxProfit121.java">买卖股票的最佳时机</a> </td>
+    <td>121</td>
+    <td>easy</td>
+    <td>2020.09.20</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/MySqrt69.java">x 的平方根</a> </td>
+    <td>69</td>
+    <td>easy</td>
+    <td>2020.09.20</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  
+     <tr>
+  <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/CanJump55.java">跳跃游戏</a> </td>
+    <td>55</td>
+    <td>medium</td>
+    <td>2020.09.20</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/NumIslands200.java">岛屿数量</a> </td>
+    <td>200</td>
+    <td>medium</td>
+    <td>2020.09.20</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/Search33.java">搜索旋转排序数组</a> </td>
+    <td>33</td>
+    <td>medium</td>
+    <td>2020.09.21</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>  
