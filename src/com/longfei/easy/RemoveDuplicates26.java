@@ -8,7 +8,7 @@ public class RemoveDuplicates26 {
         //快慢指针法
         //动画视频：https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/shi-ping-dong-hua-jie-xi-bao-ni-dong-by-novice2mas/
         if (nums == null || nums.length == 0) return 0;
-        int i = 0, j = 1;
+        int i = 0, j = 1;//i记录不重复的元素
 
         while (j < nums.length) {
             if (nums[i] != nums[j]) {
