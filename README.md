@@ -22,7 +22,7 @@
     <td>easy</td>
     <td>2020.08.10</td>
     <td>:heavy_check_mark:</td>
-    <td></td>
+    <td>1118</td>
     <td></td>
   </tr>  
   
