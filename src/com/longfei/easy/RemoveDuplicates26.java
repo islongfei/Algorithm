@@ -1,7 +1,7 @@
 package com.longfei.easy;
 
 /**
- * 删除数字中的重复项 num26
+ * 删除数组中的重复项 num26
  */
 public class RemoveDuplicates26 {
     public int removeDuplicates(int[] nums) {
