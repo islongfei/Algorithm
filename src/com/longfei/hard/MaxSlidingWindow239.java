@@ -14,7 +14,9 @@ public class MaxSlidingWindow239 {
      * solution 3. 双端队列
      */
     public int[] maxSlidingWindow(int[] nums, int k) {
-        int i, j, length = nums.length;
+        int i,// 窗口起始元素
+        j，//当前元素
+        length = nums.length;
         if (length == 0 || length < k) return new int[0];
         int res[] = new int[length - k + 1];
         int lastMaxIndex = -1;
