@@ -15,7 +15,7 @@ public class MaxSlidingWindow239 {
      */
     public int[] maxSlidingWindow(int[] nums, int k) {
         int i,// 窗口起始元素
-        j，//当前元素
+        j,//当前元素
         length = nums.length;
         if (length == 0 || length < k) return new int[0];
         int res[] = new int[length - k + 1];
