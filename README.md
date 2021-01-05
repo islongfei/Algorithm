@@ -269,7 +269,18 @@
     <td></td>
     <td></td>
   </tr>
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/IsPalindrome9.java">是否为回文数</a> </td>
+    <td>9</td>
+    <td>easy</td>
+    <td>2021.01.05</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 
 </table>  
+
 
 
