@@ -1,5 +1,6 @@
 package com.longfei.medium;
 
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -13,31 +14,26 @@ public class LengthOfLongestSubstring3 {
     
     public static void main(String[] args) {
         LengthOfLongestSubstring3 l = new LengthOfLongestSubstring3();
-        System.out.println(l.lengthOfLongestSubstring("pwwkew"));
+        System.out.println(l.lengthOfLongestSubstring("dvdf"));
     }
     
-    // 用set做，舍弃
+    // 滑动窗口
     public int lengthOfLongestSubstring(String s) {
-        if (s.length() == 0 || s == null) {
+        if (s == null || s.length() == 0) {
             return 0;
         }
-        char[] str = s.toCharArray();
-        char lastIndex = 0;
-        Set set = new HashSet();
-        int length = 0, lastSize;
-        for (int i = 0; i < str.length; i++) {
-            lastSize = set.size();
-            if (lastSize == 0 && lastIndex != 0 && lastIndex != str[i]) {
-                set.add(lastSize);
+        HashMap<Character, Integer> map = new HashMap<>();
+        int max = 0;
+        int left = 0; //窗口最左边界
+        for (int i = 0; i < s.length(); i++) {
+            Character c = s.charAt(i);
+            if (map.containsKey(c)) {
+                left = Math.max(left, map.get(c) + 1); //遇到重复的则向左滑一位
             }
-            set.add(str[i]);
-            length = length > set.size() ? length : set.size();
-            if (lastSize == set.size()) {
-                // add 之后重复。size没变, aab情况要去记录上一个元素
-                lastIndex = str[i];
-                set.clear();
-            }
+            map.put(c, i);
+            max = Math.max(max, i - left + 1);
         }
-        return length;
+        return max;
     }
+    
 }
