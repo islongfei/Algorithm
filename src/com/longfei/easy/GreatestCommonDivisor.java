@@ -24,7 +24,7 @@ public class GreatestCommonDivisor {
     }
 
     /**
-     * getGreatestCommonDivisorV3()方法在下面简写为g()
+     * getGreatestCommonDivisorV3()方法 在下面简写为g()
      * 当a偶 b偶时，g(a,b) = 2*g(a/2,b/2) = 2*g(a>>1,b>>1);
      * 当a偶 b奇时，g(a,b) = 2*g(a/2,b) = g(a>>1,b);
      * 当a奇 b偶时，g(a,b) = 2*g(a,b/2) = g(a,b>>1);
