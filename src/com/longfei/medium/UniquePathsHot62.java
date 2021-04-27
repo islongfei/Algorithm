@@ -4,7 +4,7 @@ package com.longfei.medium;
  * @author islongfei
  * @date 2021.04.17
  */
-public class UniquePathsHot52 {
+public class UniquePathsHot62 {
     public int uniquePaths(int m, int n) {
         int dp[][] = new int[m][n];
 
