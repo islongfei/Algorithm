@@ -1,12 +1,13 @@
 package com.longfei.medium;
 
 /**
- * 不同路径
+ * @author islongfei
+ * @date 2021.04.17
  */
 public class UniquePathsHot52 {
     public int uniquePaths(int m, int n) {
         int dp[][] = new int[m][n];
-        
+
         //自底向上
         for (int i = 0; i < m; i++) {
             dp[i][0] = 1;
