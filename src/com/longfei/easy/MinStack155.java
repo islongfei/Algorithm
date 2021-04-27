@@ -7,4 +7,23 @@ package com.longfei.easy;
  */
 public class MinStack155 {
     // todo
+    public MinStack() {
+    
+    }
+    
+    public void push(int val) {
+    
+    }
+    
+    public void pop() {
+    
+    }
+    
+    public int top() {
+    
+    }
+    
+    public int getMin() {
+    
+    }
 }
