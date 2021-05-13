@@ -290,6 +290,18 @@
     <td></td>
     <td></td>
   </tr>  
+  
+   <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/UniquePathsHot62.java">不同路径</a> </td>
+    <td>hot62</td>
+    <td>medium</td>
+    <td>2021.05.13</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>  
+
+
 
 </table>  
 
