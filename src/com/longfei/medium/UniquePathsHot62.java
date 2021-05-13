@@ -17,6 +17,7 @@ public class UniquePathsHot62 {
         }
         for (int i = 1; i < m; i++) {
             for (int j = 1; j < n; j++) {
+                // 每一步的走法 = 左一位的走法 + 上一位的走法
                 dp[i][j] = dp[i][j - 1] + dp[i - 1][j];
             }
         }
