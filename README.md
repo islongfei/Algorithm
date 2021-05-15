@@ -301,6 +301,16 @@
     <td></td>
   </tr>  
   
+  <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/MinPathSumHot64.java">最小路径和</a> </td>
+    <td>hot64</td>
+    <td>medium</td>
+    <td>2021.05.14</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>  
+  
    <tr>
     <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/MergeHot56.java">合并区间</a> </td>
     <td>hot56</td>
@@ -310,6 +320,8 @@
     <td></td>
     <td></td>
   </tr>  
+  
+
   
   
 
