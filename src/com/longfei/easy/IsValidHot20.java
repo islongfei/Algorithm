@@ -7,7 +7,7 @@ import java.util.Stack;
  * @time 2021/5/21
  */
 public class IsValidHot20 {
-    // 解法1 打败的人较少
+    // 解法1 打败的人较少,java自带的 stack集合太重，涉及到装箱拆箱加锁等等
     public boolean isValid1(String s) {
         // 核心就是利用了栈先进后出的特点，栈顶元素就是最近的左括号，遇到右括号就在栈顶判断就行了
         Stack<Character> left = new Stack<>();
@@ -35,4 +35,34 @@ public class IsValidHot20 {
         }
         return '{';
     }
-}    
+    
+    // StringBuffer自定义栈
+    public boolean isValid2(String s) {
+        StringBuffer ant = new StringBuffer();
+        int n = s.length();
+        char c, cc; // cc表示栈顶元素
+        for (int i = 0; i < n; i++) {
+            c = s.charAt(i);
+            if (c == '(' || c == '{' || c == '[') {
+                ant.append(c);
+            } else {
+                if (ant.length() == 0) {
+                    return false;
+                }
+                cc = ant.charAt(ant.length() - 1);
+                if ((cc == '(' && c == ')') || (cc == '{' && c == '}') || (cc == '[' && c == ']')) {
+                    ant.deleteCharAt(ant.length() - 1);
+                    continue;
+                } else {
+                    return false;
+                }
+            }
+        }
+        if (ant.length() == 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    
+}
