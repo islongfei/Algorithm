@@ -341,6 +341,16 @@
     <td></td>
   </tr>  
   
+ <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/SingleNumberHot136.java">只出现一次的数字</a> </td>
+    <td>hot136</td>
+    <td>easy</td>
+    <td>2021.05.27</td>
+    <td></td>
+    <td></td>
+    <td></td>
+ </tr>    
+  
 
 
 </table>  
