@@ -239,7 +239,7 @@
   </tr>
   
   
-     <tr>
+ <tr>
   <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/CanJump55.java">跳跃游戏</a> </td>
     <td>55</td>
     <td>medium</td>
