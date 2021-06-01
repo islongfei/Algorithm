@@ -352,7 +352,7 @@
  </tr>      
   
   <tr>
-    <td> <a href="  https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/PermuteHot46.java">全排列</a> </td>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/PermuteHot46.java">全排列</a> </td>
     <td>hot46</td>
     <td>medium</td>
     <td>2021.06.01</td>
