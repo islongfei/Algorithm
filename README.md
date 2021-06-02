@@ -370,6 +370,16 @@
     <td></td>
     <td></td>
  </tr>   
+  
+  <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/CountBitsHot338.java">比特位计数</a> </td>
+    <td>hot338</td>
+    <td>easy</td>
+    <td>2021.06.02</td>
+    <td></td>
+    <td></td>
+    <td></td>
+ </tr>    
 
   
 
