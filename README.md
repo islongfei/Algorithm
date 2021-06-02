@@ -361,6 +361,15 @@
     <td></td>
  </tr>   
   
+  <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/easy/MajorityElementHot169.java">多数元素</a> </td>
+    <td>hot169</td>
+    <td>easy</td>
+    <td>2021.06.02</td>
+    <td></td>
+    <td></td>
+    <td></td>
+ </tr>   
 
   
 
