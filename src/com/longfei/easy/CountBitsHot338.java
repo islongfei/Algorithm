@@ -18,7 +18,6 @@ public class CountBitsHot338 {
      * @return
      */
     public int[] countBits1(int n) {
-        // 重复子问题
         int[] bits = new int[n + 1];
         for (int i = 0; i <= n; i++) {
             bits[i] = countOnes(i);
@@ -35,7 +34,25 @@ public class CountBitsHot338 {
         return ones;
     }
     
-
+    /**
+     * 重复子问题 dp
+     * 最高有效位：如果正整数 n 是 2 的整数次幂,则 n 的二进制表示中只有最高位是 1,其余都是 0,此时 y&(y -1) = 0
+     *
+     * @param n
+     * @return
+     */
+    public int[] countBits2(int n) {
+        int[] bits = new int[n + 1];
+        int highBit = 0;
+        for (int i = 1; i < n + 1; i++) {
+            if ((i & (i - 1)) == 0) {
+                bits[i] = 1;
+                highBit = i;
+            } else {
+                bits[i] = bits[i - highBit] + 1; // +1 是highBit自带的 1
+            }
+        }
+        return bits;
+    }
     
-    
-}    
+}
