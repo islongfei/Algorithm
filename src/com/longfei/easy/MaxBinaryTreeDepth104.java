@@ -1,5 +1,8 @@
 package com.longfei.easy;
 
+/**
+ * 二叉数的最大深度
+ */
 public class MaxBinaryTreeDepth104 {
 
     public int maxDepth(TreeNode root) {
