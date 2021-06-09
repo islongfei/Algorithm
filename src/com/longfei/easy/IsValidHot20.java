@@ -5,6 +5,7 @@ import java.util.Stack;
 /**
  * @author wlf
  * @time 2021/5/21
+ * 有效的括号
  */
 public class IsValidHot20 {
     // 解法1 打败的人较少,java自带的 stack集合太重，涉及到装箱拆箱加锁等等
