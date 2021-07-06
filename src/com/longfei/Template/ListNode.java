@@ -29,6 +29,11 @@ public class ListNode {
         return s;
     }
     
+    /**
+     * 链表初始化赋值
+     * @param vals
+     * @return
+     */
     public static ListNode initList(int... vals) {
         ListNode head = new ListNode(0);
         ListNode current = head;
