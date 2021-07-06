@@ -29,7 +29,7 @@ public class InorderTraversalHot94 {
     }
     
     /**
-     * solution 1 : 递归，时间复杂度O(n)，空间复杂度O(n)
+     * solution 1 : 递归，时间复杂度O(n)，空间复杂度 平均O(log(n))
      * 空间复杂度取决于递归的栈深度，而栈深度在二叉树为一条链的情况下会达到 O(n) 的级别
      *
      * @param root
@@ -52,7 +52,7 @@ public class InorderTraversalHot94 {
     }
     
     /**
-     * solution 2 :迭代，模拟出一个栈，时间复杂度O(n)，空间复杂度O(n)
+     * solution 2 :迭代，模拟出一个栈，时间复杂度O(n)，空间复杂度 平均O(log(n))
      * 区别在于递归的时候隐式地维护了一个栈，而迭代的时候需要显式地将这个栈模拟出来
      * 现代计算机递归和迭代性能上差别不大
      *
