@@ -69,7 +69,7 @@ public class InorderTraversalHot94 {
             }
             root = stack.pop();
             res.add(root.val);
-            root = root.right; //如果右节点为空，会继续从栈中拿上一个树的节点（根节点）。当遍历到右节点，右节点的子右节点为空，会继续从栈中拿树的上一个左节点
+            root = root.right; //如果右节点为空，会继续从栈中拿上一个树的节点（根节点）。当遍历到右节点，右节点的子左节点为空，会继续从栈中拿树的上一个左节点
             
         }
         return res;
