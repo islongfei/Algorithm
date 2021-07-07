@@ -3,7 +3,7 @@ package com.longfei.easy;
 /**
  * @author wlf
  * @time 2021/5/27
- * 只出现一次的数字
+ * 只出现一次的数字：除了某个元素只出现一次以外，其余每个元素均出现两次
  */
 public class SingleNumberHot136 {
     /**
