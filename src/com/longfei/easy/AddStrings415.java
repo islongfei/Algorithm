@@ -8,6 +8,13 @@ package com.longfei.easy;
  * @time 2021/7/15
  */
 public class AddStrings415 {
+    /**
+     * 时间复制度：O(max(num1.length, num2.length)), 空间复制度O(n)
+     *
+     * @param num1
+     * @param num2
+     * @return
+     */
     public String addStrings(String num1, String num2) {
         StringBuilder res = new StringBuilder();
         int i = num1.length() - 1, j = num2.length() - 1, add = 0;
