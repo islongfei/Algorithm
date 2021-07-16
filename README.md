@@ -430,6 +430,16 @@
     <td></td>
     <td></td>
  </tr>  
+  
+  <tr>
+    <td> <a href="https://github.com/islongfei/Algorithm/blob/master/src/com/longfei/medium/LRUCache.java">LRU</a> </td>
+    <td>hot146</td>
+    <td>medium</td>
+    <td>2021.07.13</td>
+    <td></td>
+    <td></td>
+    <td></td>
+ </tr>  
 
 
 </table>  
