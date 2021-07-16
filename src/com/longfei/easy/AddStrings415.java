@@ -9,7 +9,7 @@ package com.longfei.easy;
  */
 public class AddStrings415 {
     /**
-     * 时间复制度：O(max(num1.length, num2.length)), 空间复制度O(n)
+     * 时间复杂度：O(max(num1.length, num2.length)), 空间复杂度O(n)
      *
      * @param num1
      * @param num2
